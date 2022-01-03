@@ -4,11 +4,8 @@ Stand alone distributed streaming service with integrated HTML5 Video players an
 
 It is a free project to show off HTML, Javascript and CSS skills and streaming knowledge.
 
-I have a website where MINI-FLIX is installed
-https://free-iptv-quebec.weebly.com/
+It is just a learning and research project and it is free and to share.
 
-It is just a learning project and it is free to use.
+It only have old Americains Movies from Archives.org and other sources that I bealive are public domaine.
 
-Next step is X-FLIX a more serious and developped a distributed web based streaming service.
-
-Memo Sim 
+Next step is X-FLIX a more serious and developped distributed web based streaming project.
