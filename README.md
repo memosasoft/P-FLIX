@@ -1,10 +1,8 @@
 # MINI-FLIX
 
-Just having fun and streaming...
+Stand alone distributed streaming service with integrated HTML Video players.
 
-It is a free project to show off my coding abilities.
-
-Stand alone distributed streaming service with integrated HTML Video players with movie selection.
+It is a free project to show off HTML skills and streaming knowledge.
 
 Just a prototype next step is X-FLIX
 
